@@ -1,7 +1,12 @@
 ### Abfrage aller  Kategorien sortiert nach Namen
 
-GET http://localhost:5000/api/categories
+GET http://localhost:57745/api/categories
+
+### Abfrage einer spezifischen Kategorie
+
+GET http://localhost:57745/api/categories/4
+
 
 ### Abfrage aller Filme eiener Kategorie sortiert nach Namen
 
-GET http://localhost:5000/api/categories/4/movies
+GET http://localhost:57745/api/categories/4/movies
