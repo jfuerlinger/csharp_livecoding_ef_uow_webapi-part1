@@ -68,7 +68,7 @@ public class CategoriesController : ControllerBase
 ## Swagger einrichten (MovieManager.Web)
 
 
-### Nuget-Paket Swashbuckle.AspNetCore.Swagger installieren (MovieManager.Web)
+### Nuget-Paket Swashbuckle.AspNetCore installieren (MovieManager.Web)
 
 ![Swagger installieren](./images/03_swagger_nuget.png)
 
